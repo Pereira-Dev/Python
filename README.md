@@ -7,11 +7,13 @@ The repository also contains various automation scripts that demonstrate the kno
 # Topics Covered
 
 1. Output Manipulation
-2. Data Types
-3. Input Handling
-4. String Slicing
-5. Formatted Strings
-6. String Methods
-7. Basic Math Operations
-8. Comparison Operators
-9. Functions and Conditionals
+2. Input Handling
+3. Formatted Strings
+4. String Methods
+5. Basic Math Operations
+6. Comparison Operators
+7. Conditional Statements
+8. Logical Operators
+9. Multiple Comparison Operators
+10. For Loop with Numbers
+11. For Loop with Strings
